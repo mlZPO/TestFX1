@@ -6,7 +6,7 @@ public class Main{
 
         System.out.println("Test1");
 
-        System.out.println("Next line");
+        System.out.println("Next line 2");
     }
 
 
